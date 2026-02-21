@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Minecraft: Java Edition"
+      },
+      {
+        "id": 2,
+        "name": "Minecraft: (Bedrock)"
+      },
+      {
+        "id": 3,
+        "name": "Minecraft Offline"
+      },
+      {
+        "id": 4,
+        "name": "Unturned"
+      },
+      {
+        "id": 5,
+        "name": "Rust"
+      },
+      {
+        "id": 6,
+        "name": "7 Days to Die"
+      },
+      {
+        "id": 7,
+        "name": "Garry's Mod"
+      },
+      {
+        "id": 8,
+        "name": "Counter-Strike: Global Offensive"
+      },
+      {
+        "id": 9,
+        "name": "Team Fortress 2"
+      },
+      {
+        "id": 10,
+        "name": "Hurtworld"
+      },
+      {
+        "id": 11,
+        "name": "ARK: Survival Evolved"
+      },
+      {
+        "id": 12,
+        "name": "Space Engineers"
+      },
+      {
+        "id": 13,
+        "name": "ATLAS"
+      },
+      {
+        "id": 14,
+        "name": "GTA V"
+      },
+      {
+        "id": 15,
+        "name": "FiveM"
+      }
+   ]
+}

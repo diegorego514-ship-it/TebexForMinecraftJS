@@ -1,0 +1,11 @@
+{
+    "data": {
+      "reference": "123456",
+      "secret": null,
+      "game_type": {
+        "id": 1
+      },
+      "setup_at": null
+    }
+}
+

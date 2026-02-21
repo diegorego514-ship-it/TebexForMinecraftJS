@@ -1,0 +1,36 @@
+{
+    "data": {
+      "reference": "123456",
+      "secret": "9a6747fc6259aa374ab4e1bb03074b6ec672cf99",
+      "game_type": {
+        "id": 1,
+        "plugins": {
+            "bukkit": {
+                "platform": "bukkit",
+                "version": "10.2",
+                "url": "https://d2vpaemuugs53a.cloudfront.net/latest/10.2/bukkit/BuycraftX.jar",
+                "config": "https://affliate.tebex.io/api/referrals/123456/config/bukkit"
+            },
+                "sponge": {
+                "platform": "sponge",
+                "version": "10.2",
+                "url": "https://d2vpaemuugs53a.cloudfront.net/latest/10.2/sponge/BuycraftX.jar",
+                "config": "http://affliate.tebex.io/api/referrals/123456/config/sponge"
+        },
+                "bungeecord": {
+                  "platform": "bungeecord",
+                  "version": "10.2",
+                  "url": "https://d2vpaemuugs53a.cloudfront.net/latest/10.2/bungeecord/BuycraftX.jar",
+                  "config": "http://affliate.tebex.io/api/referrals/123456/config/bungeecord"
+                },
+                "forge": {
+                  "platform": "forge",
+                  "version": "12.0.1",
+                  "url": "https://d2vpaemuugs53a.cloudfront.net/latest/minecraft-java/12.0.1/forge/Buycraft.jar",
+                  "config": "http://affliate.tebex.io/api/referrals/123456/config/forge"
+                }
+        }
+    },
+    "setup_at": "2020-11-17T09:41:57+00:00"
+    }
+}

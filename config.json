@@ -1,0 +1,7 @@
+{
+  "tebex_username": "YOUR_PUBLIC_TOKEN",
+  "tebex_password": "YOUR_SECRET_KEY",
+  "port": 3000,
+  "debug": true
+}
+

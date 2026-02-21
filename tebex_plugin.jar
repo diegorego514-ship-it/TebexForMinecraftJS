@@ -1,0 +1,9 @@
+#BuycraftX configuration file
+push-commands=true
+server-key=a8ba040f9deb37b79d66fa19f8b36ba5df14fa2
+verbose=false
+display-buy-command=false
+check-for-updates=true
+buy-command-name=buy
+is-bungeecord=false
+language=en-GB

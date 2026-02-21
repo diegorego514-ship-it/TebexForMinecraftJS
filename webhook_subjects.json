@@ -1,0 +1,76 @@
+{
+  "transaction_id": "tbx-xxxxxxxx",
+  "status": {
+    "id": 2,
+    "description": "Refund"
+  },
+  "payment_sequence": "oneoff",
+  "created_at": "2021-08-19T13:03:30.000000Z",
+  "price": {
+    "amount": 13.2,
+    "currency": "GBP"
+  },
+  "price_paid": {
+    "amount": 13.2,
+    "currency": "GBP"
+  },
+  "payment_method": {
+    "name": "PayPal",
+    "refundable": true
+  },
+  "fees" : {
+    "tax" : {
+      "amount" : 0,
+      "currency" : "USD"
+    }
+  },
+  "customer": {
+    "first_name": "Test",
+    "last_name": "Test",
+    "email": "test@test.com",
+    "ip": "1.2.3.4",
+    "username": {
+        "id": "1234",
+        "username": "Test"
+    },
+    "marketing_consent": true,
+    "country": "GB",
+    "postal_code": "TE57 1NG"
+  },
+  "products": [
+    {
+        "id": 4,
+        "name": "Example Package",
+        "quantity": 1,
+        "base_price": {
+            "amount": 11,
+            "currency": "GBP"
+        },
+        "paid_price": {
+          "amount": 11,
+          "currency": "GBP"
+        },
+        "variables": [
+            {
+                "identifier": "server",
+                "option": "3"
+            }
+        ],
+        "expires_at": null,
+        "custom": null,
+        "username": {
+          "id": "1234",
+          "username": "Test"
+        }
+    }
+  ],
+  "coupons": [],
+  "gift_cards": [],
+  "recurring_payment_reference": null,
+  "decline_reason": {
+    "code": "incorrect_card_information",
+    "message": "You entered incorrect card information. Please check your card details are correct and then try again."
+  },
+  "creator_code": "example",
+  "settled_at": "2021-08-21T13:03:30.000000Z"
+}
